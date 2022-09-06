@@ -1,3 +1,20 @@
+.App {
+  background-color: #f4f4f4;
+  max-width: 743px;
+  margin: 0 auto;
+  padding: 24px 56px;
+}
+
+.App footer {
+  margin-top: 8px;
+}
+
+.App footer .horizontal-line {
+  margin: 24px 0 8px 0;
+  background-color: black;
+  height: 1px;
+}
+
 .App-header {
   margin: 10px 0;
 }
