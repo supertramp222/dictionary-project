@@ -1,0 +1,23 @@
+.Phonetics img {
+  max-width: 50%;
+  margin: 8px 4px;
+}
+
+.Phonetics a {
+  border: 1px solid black;
+  background-color: #f8f8f8;
+  border-radius: 100%;
+  margin-right: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.Phonetics a:hover {
+  border: 1px solid #001aff;
+}
+
+.Phonetics {
+  display: flex;
+  align-items: center;
+  margin: 12px 0;
+}

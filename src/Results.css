@@ -1,5 +1,8 @@
 .Results .horizontal-line {
-  margin: 24px 0 8px 0;
   background-color: black;
   height: 1px;
+}
+.Results .horizontal-line-bold {
+  background-color: black;
+  height: 2px;
 }
